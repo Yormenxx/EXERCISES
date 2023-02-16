@@ -1,0 +1,24 @@
+A decimal number can be represented as a sequence of bits. 
+bitwiseAND(6, 23) ➞ 00000110
+
+bitwiseOR(6, 23) ➞ 00010111
+
+bitwiseXOR(6, 23) ➞ 00010001
+
+
+/--------------------------------/
+function bitwiseAND(n1, n2) {
+	
+	result = n1 & n2
+	return result
+}
+
+function bitwiseOR(n1, n2) {
+	result = n1 | n2
+	return result
+}
+
+function bitwiseXOR(n1, n2) {
+	result = n1 ^ n2
+	return result
+}
