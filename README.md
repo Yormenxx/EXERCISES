@@ -1,2 +1,2 @@
 # EXERCISES
-Some exercises in diferents programming languages
+Some exercises in diferents programming languages,Java ,Javascript
